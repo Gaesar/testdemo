@@ -1,6 +1,2 @@
-Hello, World!666
-999
-777
-999
-bug
-bu
+Hello, World!
+你好，世界！
